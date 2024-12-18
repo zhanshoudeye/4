@@ -1,0 +1,10 @@
+# ninja log v6
+2	160	7562416054847123	CMakeFiles/C__.dir/main.cpp.obj	2962181ede48f5f4
+2	229	7562422717025180	CMakeFiles/C__.dir/main.cpp.obj	2962181ede48f5f4
+26	561	7562422717269580	CMakeFiles/C__.dir/BookData.cpp.obj	2b7ecc1d257d53e6
+49	596	7562422717490628	CMakeFiles/C__.dir/Checkout.cpp.obj	e3b1c45791817c9e
+72	604	7562422717722406	CMakeFiles/C__.dir/Mainmenu.cpp.obj	29bb89d7918d72a0
+134	676	7562422718352948	CMakeFiles/C__.dir/Manage.cpp.obj	39a1e1654ef965b2
+5	478	7562423295491884	CMakeFiles/C__.dir/Report.cpp.obj	3ab47ce9f3396801
+5	465	7562423793453796	CMakeFiles/C__.dir/Mainmenu.cpp.obj	29bb89d7918d72a0
+466	567	7562423798059338	C__.exe	ed91f81c60ea12bd
